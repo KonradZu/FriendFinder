@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">FriendFinder</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="КОНТАКТЫ">contacts_label</string>
+    <string name="contacts_label">КОНТАКТЫ</string>
+    <string name="add_contact">Добавить контакт</string>
+
+
+    <!--Фото-->
+    <array name="Foto">
+    <item>@drawable/foto0</item>
+    <item>@drawable/foto1</item>
+    <item>@drawable/foto2</item>
+    <item>@drawable/foto3</item>
+    <item>@drawable/foto4</item>
+    <item>@drawable/foto5</item>
+    <item>@drawable/foto6</item>
+    <item>@drawable/foto7</item>
+    <item>@drawable/foto8</item>
+    <item>@drawable/foto9</item>
+    <item>@drawable/foto_default</item>
+    </array>
+
+    <!--Имена-->
+    <string-array name="Name">
+        <item>Ульяна Кравец</item>
+        <item>Назар Рубан</item>
+        <item>Даниил Кравченко</item>
+        <item>Орыся Коваль</item>
+        <item>Тамила Гончаренко</item>
+        <item>Кирилл Матвиенко</item>
+        <item>Анжелика Пилипенко</item>
+        <item>Владислав Филипенко</item>
+        <item>Олесь Бондаренко</item>
+        <item>Мария Краско</item>
+        <item>Снежана Дзюба</item>
+    </string-array>
+
+
+</resources>
